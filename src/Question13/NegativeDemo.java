@@ -9,11 +9,9 @@ public class NegativeDemo {
         if (input < 0)
         {
             System.out.println("The negative number is: " + input);
-        }
-        else
+        } else
         {
             System.out.println("This is a positive number: " + input);
         }
 	}
-
 }

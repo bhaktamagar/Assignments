@@ -9,11 +9,9 @@ public class PersonIdentity {
 		System.out.print("Please enter your Roll No. ");
 		int rollNum = sc.nextInt();
 		System.out.println("Please enter your Name: ");
-		String name = sc.nextLine();
-		
+		String name = sc.nextLine();		
 		System.out.print("Please enter your Nationality: ");
-		String naty = sc.nextLine();		
-	   
+		String naty = sc.nextLine();	   
 	}
 
 }
