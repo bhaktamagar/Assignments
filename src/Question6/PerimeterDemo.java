@@ -1,4 +1,4 @@
-package Question6OfPerimeter;
+package Question6;
 
 import java.util.Scanner;
 

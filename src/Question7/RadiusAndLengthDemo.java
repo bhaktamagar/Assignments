@@ -1,4 +1,4 @@
-package Question7OfRadiusAndLength;
+package Question7;
 import java.util.Scanner;
 
 public class RadiusAndLengthDemo {

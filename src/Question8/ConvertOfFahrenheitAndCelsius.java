@@ -1,4 +1,4 @@
-package Question8OfFC;
+package Question8;
 import java.util.Scanner;
 
 public class ConvertOfFahrenheitAndCelsius {
